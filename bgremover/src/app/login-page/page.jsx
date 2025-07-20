@@ -1,5 +1,5 @@
 import Image from "next/image";
-import googleLogo from "@/assets/logo/googleLogo.png";
+import googleLogo from "@/assets/logo/googleLogo.jpeg";
 import Link from "next/link";
 
 const inputStyle =
