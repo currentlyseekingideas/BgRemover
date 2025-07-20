@@ -1,7 +1,7 @@
 "use client";
 import Image from "next/image";
 import React, { useState } from "react";
-import logo from "@/assets/logo/Pixelmind.jpeg";
+import logo from "@/assets/logo/PixelMind.jpeg";
 import { motion } from "framer-motion";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
